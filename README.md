@@ -27,3 +27,4 @@ To run the code, type
 ```
 python Webcam_Paint_OpenCV.py
 ```
+https://towardsdatascience.com/tutorial-webcam-paint-opencv-dbe356ab5d6c
